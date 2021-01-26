@@ -23,7 +23,7 @@ from azure.cognitiveservices.vision.face import FaceClient
 from msrest.authentication import CognitiveServicesCredentials
 from azure.cognitiveservices.vision.face.models import TrainingStatusType, Person
 
-KEY = "b5b37e9ca5fb44f69bd0a421356e600f"
+KEY = "add your key here"
 ENDPOINT = "https://sydney123.cognitiveservices.azure.com/"
 
 # Create face client azure object from .
