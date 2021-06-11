@@ -1,4 +1,4 @@
-# aiaustralia assignment Bilal Qureshi, email:bqureshi341@gmail.com (Option 2)
+# Microsoft Azure Classification
 Please add your microsoft key to run the codes
 I have used Microsoft Azure services in order to complete this task. To convert this into an app it can be deployed in flask.
 Requirments to run the code: <br/>
